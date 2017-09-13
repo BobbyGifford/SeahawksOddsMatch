@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seahawks Odds</string>
+    <string name="title">Seahawks Match Up Odds</string>
+    <string name="away">Away Team</string>
+    <string name="home">Home Team</string>
+    <string name="none">None</string>
+</resources>
